@@ -1,0 +1,10 @@
+{
+  "uuid": "be-nice-to-brain@andrew.kvalhe.im",
+  "version": 1,
+
+  "name": "Be Nice to Brain",
+  "description": "Gently enforce regular breaks by turning the screen grayscale until a break is taken.",
+  "url": "https://github.com/AndrewKvalheim/be-nice-to-brain",
+
+  "shell-version": ["3.36"]
+}
